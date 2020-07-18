@@ -23,7 +23,7 @@ Evaluating the models
 Final model creation and analysis outcome by preparing classification report and confusion matrix and accuracy score.
 
 Final result of analysis: The accuracy obtained is
-0.69 using logistic regression model
+0.71 using logistic regression model
 0.71 using KNN
 
 
